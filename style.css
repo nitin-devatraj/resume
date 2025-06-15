@@ -14,11 +14,11 @@ h4 {
 }
 
 p {
-  font-size: 25px;
+  font-size: 28px;
 }
 
 li {
-  font-size: 25px;
+  font-size: 28px;
 }
 
 hr {
@@ -42,7 +42,7 @@ a:hover {
 .container {
   display: grid;
   grid-template-columns: 33.333% 66.666%;
-  padding: 20;
+  padding: 20px;
 }
 
 .one {
@@ -99,4 +99,8 @@ a:hover {
 
 hr {
   margin: 15px 0px;
+}
+
+small {
+ font-size:16px;
 }
