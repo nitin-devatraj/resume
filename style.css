@@ -42,12 +42,13 @@ a:hover {
 .container {
   display: grid;
   grid-template-columns: 33.333% 66.666%;
-  padding: 50px;
+  padding: 80px;
 }
 
 .one {
   background-color: rgb(136, 149, 185);
   padding: 16px 50px 25px;
+  
 }
 
 .one span {
