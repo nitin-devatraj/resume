@@ -41,7 +41,7 @@ a:hover {
 
 .container {
   display: grid;
-  grid-template-columns: 33.333% 66.666%;
+  grid-template-columns: 34% 66%;
 }
 
 .one {
