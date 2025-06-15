@@ -14,11 +14,11 @@ h1, h4 {
 }
 
 p {
-  font-size: 26px;
+  font-size: 28px;
 }
 
 li {
-  font-size: 26px;
+  font-size: 28px;
 }
 
 hr {
@@ -47,7 +47,7 @@ a:hover {
 
 .one {
   background-color: rgb(136, 149, 185);
-  padding: 30px 35px 25px;
+  padding: 30px 30px 25px 35px;
 }
 
 .one span {
