@@ -48,7 +48,6 @@ a:hover {
 .one {
   background-color: rgb(136, 149, 185);
   padding: 16px 35px 25px;
-  
 }
 
 .one span {
@@ -58,6 +57,10 @@ a:hover {
 .one h1 {
   font-size: 44px;
   margin: 1rem 0rem;
+}
+
+.one p {
+ margin: 5px;
 }
 
 .two {
