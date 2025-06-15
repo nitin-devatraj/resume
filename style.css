@@ -8,7 +8,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-h4 {
+h1, h4 {
   font-size: 35px;
   margin: 1rem 0rem;
 }
@@ -105,5 +105,5 @@ hr {
 }
 
 small {
- font-size:16px;
+ font-size: 20px;
 }
