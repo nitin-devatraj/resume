@@ -9,12 +9,12 @@ body {
 }
 
 h4 {
-  font-size: 38px;
+  font-size: 35px;
   margin: 1rem 0rem;
 }
 
 p {
-  font-size: 32px;
+  font-size: 25px;
 }
 
 li {
@@ -42,12 +42,12 @@ a:hover {
 .container {
   display: grid;
   grid-template-columns: 33.333% 66.666%;
-  padding: 0;
+  padding: 20;
 }
 
 .one {
   background-color: rgb(136, 149, 185);
-  padding: 16px 25px 25px;
+  padding: 16px 35px 25px;
   
 }
 
@@ -62,7 +62,7 @@ a:hover {
 
 .two {
   background-color: rgb(232, 234, 248);
-  padding: 30px 35px;
+  padding: 30px 50px;
 }
 
 .text-900 {
@@ -71,7 +71,7 @@ a:hover {
 
 .three {
   background-color: rgb(232, 234, 248);
-  padding: 14px 25px 55px;
+  padding: 14px 35px 55px;
 }
 
 .three p {
@@ -85,7 +85,7 @@ a:hover {
 
 .four {
   background-color: rgb(136, 149, 185, 0.7);
-  padding: 14px 35px 55px;
+  padding: 14px 50px 55px;
 }
 
 .list-container {
