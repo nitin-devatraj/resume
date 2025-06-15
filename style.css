@@ -42,7 +42,7 @@ a:hover {
 .container {
   display: grid;
   grid-template-columns: 33.333% 66.666%;
-  padding: 80px;
+  padding: 10px;
 }
 
 .one {
